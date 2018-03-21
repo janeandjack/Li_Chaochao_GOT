@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+.hidden
+{
+	display: none;
+}
+body{
+	background-color: black;
+	color: white;
+	font-size: 16px;
+}
+
+.wrapper{
+	text-align: center;;
+}
