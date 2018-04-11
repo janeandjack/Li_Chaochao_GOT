@@ -1,4 +1,4 @@
-# HTML5 video with JS/ES6
-a simple video app / Got house explainer with video and css animation
+# GOT Video App
+JS-based house explainer with video synopsis for each
 
-Using native video
+Basic HTML 5 app with ES6, CSS animation and video
